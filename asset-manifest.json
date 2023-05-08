@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/App-repo/static/css/main.073c9b0a.css",
+    "main.js": "/App-repo/static/js/main.81d6d19b.js",
+    "static/js/787.3a2dae0b.chunk.js": "/App-repo/static/js/787.3a2dae0b.chunk.js",
+    "index.html": "/App-repo/index.html",
+    "main.073c9b0a.css.map": "/App-repo/static/css/main.073c9b0a.css.map",
+    "main.81d6d19b.js.map": "/App-repo/static/js/main.81d6d19b.js.map",
+    "787.3a2dae0b.chunk.js.map": "/App-repo/static/js/787.3a2dae0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.81d6d19b.js"
+  ]
+}
